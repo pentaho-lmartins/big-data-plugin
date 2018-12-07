@@ -25,6 +25,11 @@
       <scope>provided</scope>
     </dependency>
     <dependency>
+      <groupId>commons-logging</groupId>
+      <artifactId>commons-logging</artifactId>
+      <scope>provided</scope>
+    </dependency>
+    <dependency>
       <groupId>org.eclipse.core</groupId>
       <artifactId>commands</artifactId>
       <version>3.3.0-I20070605-0010</version>
